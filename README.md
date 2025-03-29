@@ -31,5 +31,5 @@ A web-based client records management system built with **React**, **TypeScript*
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/client-records-app.git
+git clone https://github.com/Nirbhay774/client_recode_management_nirbhay.git
 cd client-records-app
